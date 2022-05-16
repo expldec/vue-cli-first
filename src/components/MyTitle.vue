@@ -5,9 +5,6 @@
 <script>
 export default {
   name: "MyTitle",
-  props: {
-    msg: String,
-  },
 };
 </script>
 
